@@ -8,7 +8,7 @@ Create virtual env and activate it. And than in it:
 .. code-block:: text
     pip install -r requirements.txt
 
-Put cats' pics to images folder. Cats' files should .jpg or .jped, for example cat.jpg.
+Put cats' pics to images folder. Cats' files should be *.jpg or *.jped, for example cat.jpg.
 
 Set up
 ------
