@@ -2,3 +2,5 @@
 settings.py
 __pycache__
 .DS_Store
+env
+.vscode
