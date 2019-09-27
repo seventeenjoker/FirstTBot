@@ -20,11 +20,11 @@ Create file settings.py and add there:
 
 .. code-block:: python
 
-PROXY = {'proxy_url': 'socks5://your_proxy:1080', 'urllib3_proxy_kwargs': {'username': 'login', 'password': 'pass'}}
+    PROXY = {'proxy_url': 'socks5://your_proxy:1080', 'urllib3_proxy_kwargs': {'username': 'login', 'password': 'pass'}}
 
-API_KEY = "your_api_key"
+    API_KEY = "your_api_key"
 
-USER_EMOJI = [':smiley_cat:', ':smiling_imp:', ':panda_face:', ':dog:']
+    USER_EMOJI = [':smiley_cat:', ':smiling_imp:', ':panda_face:', ':dog:']
 
 Launch
 ------
